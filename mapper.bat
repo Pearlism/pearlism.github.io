@@ -8,7 +8,7 @@ if %errorLevel% NEQ 0 (
     exit /b
 )
 
-set "bazarPath=C:\Program Files\Snippingtool\hardware.sys"
+set "bazarPath=C:\Program Files\Snippingtool\DRAG ME IN THE INJECTOR.dll"
 set "mapperPath=C:\Program Files\Snippingtool\senex-valo-injector.exe"
 
 :: Log the start of the process
